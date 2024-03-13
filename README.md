@@ -1,5 +1,6 @@
-# Projet-myGit
+# Projet-myGit simulation de dépot d'un projet sur git avec gestion des #Branches et des Commis
 #By #mariame1810
+
 Procedure de test:
 - initaliser le projet: ./myGit init
 - creer le dossier tmp: mkdir tmp
