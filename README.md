@@ -1,5 +1,6 @@
-# Projet-myGit simulation de dépot d'un projet sur git avec gestion des #Branches et des Commis
-#By #mariame1810
+# Projet-myGit 
+#Simulation de dépot d'un projet sur git avec gestion des #Branches et des Commis
+#By @mariame1810
 
 Procedure de test:
 - initaliser le projet: ./myGit init
